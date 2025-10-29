@@ -7,17 +7,6 @@ This project contains a machine learning model trained to detect humans in disas
 The dataset is organized in the following structure:
 ```
 Veri Seti/
-├── train/
-│   ├── images/ (Training images)
-│   └── labels/ (Training labels in YOLO format)
-├── val/
-│   ├── images/ (Validation images)
-│   └── labels/ (Validation labels in YOLO format)
-├── test/
-│   ├── images/ (Test images)
-│   └── labels/ (Test labels in YOLO format)
-├── data.yaml (Dataset configuration)
-├── notes.json (Dataset information)
 ├── train_human_detection.py (Training script)
 ├── inference.py (Inference script)
 ├── evaluate_model.py (Model evaluation)
