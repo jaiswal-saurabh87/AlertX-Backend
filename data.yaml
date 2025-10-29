@@ -1,8 +1,0 @@
-train: 'C:\Users\Saura\Desktop\Veri Seti\train'
-val: 'C:\Users\Saura\Desktop\Veri Seti\val'
-test: 'C:\Users\Saura\Desktop\Veri Seti\test'
-
-nc: 1
-names: ["Human"]
- 
- 
